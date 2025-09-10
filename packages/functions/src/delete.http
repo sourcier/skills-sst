@@ -1,0 +1,2 @@
+# @prompt noteId
+DELETE  {{host}}/notes/{{noteId}} HTTP/1.1
