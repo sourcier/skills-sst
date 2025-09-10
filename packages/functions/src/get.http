@@ -1,0 +1,2 @@
+# @prompt noteId
+GET  {{host}}/notes/{{noteId}} HTTP/1.1
